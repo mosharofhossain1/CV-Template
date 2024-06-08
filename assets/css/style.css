@@ -141,6 +141,10 @@ body {
     opacity: .7;
 }
 
+.frontendDetails {
+    padding: 20px 0px;
+}
+
 .calenderTitle {
     font-size: 16px;
 
@@ -207,4 +211,25 @@ body {
 .plateDesc {
     font-size: 16px;
     opacity: .8;
+}
+
+footer {
+    background-color: #009688;
+    opacity: .7;
+    text-align: center;
+    color: white;
+}
+
+.footerContents {
+    padding: 50px 0px;
+
+}
+
+.footerContents p {
+    font-size: 18px;
+
+}
+
+.socialLinks {
+    margin: 10px 0px;
 }
